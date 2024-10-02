@@ -26,10 +26,10 @@ Ez az alkalmazás egy étterem asztali felülete, ahol a felhasználók regisztr
 ## Fejlesztési Folyamat
 
 ### Csapat
-A projektet 3-4 fős fejlesztői csoportok készítették.
+A projektet Dankó Dániel és Vedrán Krisztián készítette.
 
 ### Agilitás
-A fejlesztés során Jira vagy Trello eszközöket használtunk a feladatok nyomon követésére.
+A fejlesztés során Trello-t használtunk a feladatok nyomon követésére.
 
 ### Verziókezelés
 A kódbázis központi tárolására és a verziók nyomon követésére Git verziókezelőt használtunk.
