@@ -26,6 +26,7 @@ Ez az alkalmazás egy étterem asztali felülete, ahol a felhasználók regisztr
 ## Fejlesztési Folyamat
 
 ### Csapat
+Csapatunk neve: Besinkáztunk
 A projektet Dankó Dániel és Vedrán Krisztián készítette.
 
 ### Agilitás
